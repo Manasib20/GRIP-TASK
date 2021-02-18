@@ -9,7 +9,9 @@ This repository contains the tasks that I completed while working as an intern f
 
 3.You can use R, Python, SAS Enterprise Miner or any other tool.
 
-4.What will be predicted score if a student studies for 9.25 hrs/ day?
+4.Data can be found at http://bit.ly/w-data
+
+5.What will be predicted score if a student studies for 9.25 hrs/ day?
 
 
 
